@@ -1,6 +1,6 @@
 cask "dormer" do
-  version "0.6.1,35"
-  sha256 "938cf99d8b895428e0213bcb1bb1ad4b7109599c96c856d6aa5c16f1ed5e9fac"
+  version "0.7,36"
+  sha256 "4ba6aa4aba4f0b1655258c47c40bc3ff5542a7aa5c7c41d18698b4f13126bf2d"
 
   url "https://github.com/Zerdoxy741/dormer/releases/download/v#{version.csv.second}/Dormer-#{version.csv.first}.zip"
   name "Dormer"
